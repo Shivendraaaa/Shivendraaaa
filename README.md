@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/shivendra-srivastava-72101124a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Shivendra+Srivastava&size=square" alt="Shivendra Srivastava">
       </a>
     </td>
   </tr>
